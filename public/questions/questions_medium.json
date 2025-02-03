@@ -1,0 +1,52 @@
+[
+  {
+    "question": "You notice that the stock of Company A has dropped by 15% in the last week due to a temporary setback in one of their projects. What might be a prudent action?",
+    "options": [
+      "Sell your shares immediately to avoid further losses",
+      "Buy more shares to take advantage of the temporary dip",
+      "Hold onto your shares and wait for the situation to improve",
+      "Switch investments to a different company"
+    ],
+    "correctOption": 2
+  },
+  {
+    "question": "You set a stop-loss order for your investment in Company B at 10% below the current market price. If the stock price suddenly drops due to negative news, what will happen?",
+    "options": [
+      "Your shares of Company B will be automatically sold once the price falls by 10%",
+      "Your shares of Company B will be frozen until the market stabilizes",
+      "You will be forced to buy additional shares of Company B to offset the loss",
+      "Your stop-loss order will be canceled automatically"
+    ],
+    "correctOption": 0
+  },
+  {
+    "question": "You are considering investing in an index fund that tracks the S&P 500. What advantage does this offer compared to investing in individual stocks?",
+    "options": [
+      "Higher potential returns",
+      "Reduced risk through diversification",
+      "Lower fees compared to actively managed funds",
+      "Access to insider information about specific companies"
+    ],
+    "correctOption": 1
+  },
+  {
+    "question": "You are analyzing the volatility of a stock in your portfolio. What does high volatility indicate?",
+    "options": [
+      "The stock is experiencing stable price movements",
+      "The stock price changes rapidly over short periods",
+      "The stock is closely correlated with a benchmark index",
+      "The stock has consistently outperformed its competitors"
+    ],
+    "correctOption": 1
+  },
+  {
+    "question": "You notice that Company C, a blue-chip stock, has announced an unexpected dividend cut. How might this impact your investment strategy?",
+    "options": [
+      "Sell all shares of Company C immediately to minimize losses",
+      "Hold onto shares of Company C and wait for the market reaction to stabilize",
+      "Buy more shares of Company C to take advantage of the lower price",
+      "Switch investments to a different company"
+    ],
+    "correctOption": 1
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "question": "When might it be a good time to buy stocks?",
+    "options": [
+      "When the stock price is at an all-time high",
+      "When the stock price is significantly lower than its intrinsic value",
+      "When the media reports negative news about the company",
+      "When the company's CEO resigns"
+    ],
+    "correctOption": 1
+  },
+  {
+    "question": "What is a common reason for selling stocks?",
+    "options": [
+      "When the stock price reaches its peak",
+      "When the market is experiencing a downturn",
+      "When the company announces a new product launch",
+      "When the stock price is lower than what you paid for it"
+    ],
+    "correctOption": 3
+  },
+  {
+    "question": "What does 'market timing' refer to?",
+    "options": [
+      "Predicting the future direction of stock prices",
+      "Buying and selling stocks based on the current market conditions",
+      "Investing in multiple markets simultaneously",
+      "Setting the timing for quarterly earnings reports"
+    ],
+    "correctOption": 1
+  },
+  {
+    "question": "What does 'Dollar-Cost Averaging' involve?",
+    "options": [
+      "Investing a fixed amount of money in a stock at regular intervals",
+      "Buying stocks only when they are at their lowest price",
+      "Selling stocks in small portions to minimize losses",
+      "Investing a large sum of money in a stock all at once"
+    ],
+    "correctOption": 0
+  },
+  {
+    "question": "What is a common strategy to minimize risk when investing in stocks?",
+    "options": [
+      "Investing all your money in a single stock",
+      "Diversifying your investment portfolio across different assets",
+      "Ignoring market fluctuations and holding onto stocks indefinitely",
+      "Selling stocks as soon as their price drops slightly"
+    ],
+    "correctOption": 1
+  }
+]
