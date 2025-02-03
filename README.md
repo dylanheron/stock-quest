@@ -1,10 +1,6 @@
-# Stock Market Simulation Game - Xylophone Xeruses
-
-## View the Deployment here: https://www.stockquest.app/
+# Stock Market Simulation Game
 
 This project is a web-based game designed to simulate the complexities of stock market trading. Users can compete against each other in real-time to buy and sell stocks based on historical market data, aiming to maximize their profits. The game's primary goal is to provide an educational platform where users can learn about stock market dynamics and improve their trading decisions without financial risk.
-
-![](./group-image/home-image.png)
 
 ## Key Features
 
